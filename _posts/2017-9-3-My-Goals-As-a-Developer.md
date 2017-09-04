@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: My Goals As a Developer
---
+---
 
 ## My Goals As a Developer
 
@@ -51,4 +51,4 @@ even write the code to control robotic surgeons in the future.
 However far-fetched these ideas may seem, they are ones which I am passionate
 about, and I believe that passion goes a long way towards achieving goals, no
 matter how strange they are (just look at the lives of Isaac Newton and Albert
-Einstein). 
+Einstein).

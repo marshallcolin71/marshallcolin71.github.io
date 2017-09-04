@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: This Years Challenge
---
+---
 
 ## This Years Challenge
 
@@ -41,4 +41,4 @@ presented a whole new set of grammatical rules and a completely different way of
 thinking and problem-solving to my mind. I am by no means an expert in the field,
 but over the past few months I have obtained knowledge and taught my brain to
 think in ways which I never though possible. I have proved wrong all those who
-initially discredited my efforts, and have proved wrong even my own misgivings. 
+initially discredited my efforts, and have proved wrong even my own misgivings.

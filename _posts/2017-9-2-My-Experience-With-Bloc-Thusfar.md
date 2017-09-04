@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: My Experience With Bloc Thusfar
---
+---
 
 ## My Experience With Bloc Thusfar
 
@@ -28,4 +28,4 @@ seemingly simple website. It just goes to show, no matter how far that an
 individual can progress in the field of coding, their learning will never be
 complete. Every year, existing languages are improved upon and new ones are
 created. The learning curve will never truly end, which is an aspect which will
-always fascinate me. 
+always fascinate me.
